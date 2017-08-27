@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements LoaderCallbacks<L
      */
 
     private static final String GG_BASE_REQUEST_URL =
-            "https://www.googleapis.com/books/v1/volumes?maxResults:40&key=AIzaSyBvQU7W9eJRamcOLDkolNE3zDndkXimW70&q=";
+            "https://www.googleapis.com/books/v1/volumes?maxResults:40&key=ADD HERE API KEY=";
     /**
      * Constant value for the book loader ID. We can choose any integer.
      */
